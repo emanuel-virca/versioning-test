@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/emanuel-virca/versioning-test/compare/v0.1.0...v0.2.0) (2019-05-07)
+
+
+### Features
+
+* **feat-7:** this feat 7 part one ([3c40e5b](https://github.com/emanuel-virca/versioning-test/commit/3c40e5b))
+* **feat-7:** this feat 7 part two ([4755aa3](https://github.com/emanuel-virca/versioning-test/commit/4755aa3))
+
+
+
 ## [0.1.0](https://github.com/emanuel-virca/versioning-test/compare/v0.0.0...v0.1.0) (2019-05-07)
 
 
