@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.5.1](https://github.com/emanuel-virca/versioning-test/compare/v0.5.0...v0.5.1) (2019-05-08)
+
+
+### Bug Fixes
+
+* this is a fix ([0776511](https://github.com/emanuel-virca/versioning-test/commit/0776511))
+* **release-fix:** this is release fix branch pull request ([#7](https://github.com/emanuel-virca/versioning-test/issues/7)) ([452ba61](https://github.com/emanuel-virca/versioning-test/commit/452ba61))
+
+
+
 ## [0.5.0](https://github.com/emanuel-virca/versioning-test/compare/v0.4.0...v0.5.0) (2019-05-08)
 
 
