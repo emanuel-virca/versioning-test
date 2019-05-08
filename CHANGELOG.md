@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.5.0](https://github.com/emanuel-virca/versioning-test/compare/v0.4.0...v0.5.0) (2019-05-08)
+
+
+### Features
+
+* **bird:** this is bird pull request ([#5](https://github.com/emanuel-virca/versioning-test/issues/5)) ([3054ed7](https://github.com/emanuel-virca/versioning-test/commit/3054ed7))
+* **crocodile:** crocodile feature description ([#6](https://github.com/emanuel-virca/versioning-test/issues/6)) ([a21d889](https://github.com/emanuel-virca/versioning-test/commit/a21d889))
+* **mouse:** this is mouse branch ([#4](https://github.com/emanuel-virca/versioning-test/issues/4)) ([b778cd0](https://github.com/emanuel-virca/versioning-test/commit/b778cd0))
+
+
+
 ## [0.4.0](https://github.com/emanuel-virca/versioning-test/compare/v0.3.0...v0.4.0) (2019-05-07)
 
 
