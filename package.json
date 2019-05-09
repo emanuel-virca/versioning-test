@@ -1,6 +1,6 @@
 {
   "name": "versioning-test",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "release-patch": "standard-version && git push --follow-tags",
+    "release-patch": "standard-version && git push --follow-tags origin HEAD",
     "release": "standard-version && git push --follow-tags origin master"
   },
   "commitlint": {
