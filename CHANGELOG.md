@@ -2,6 +2,34 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.6.0](https://github.com/emanuel-virca/versioning-test/compare/v0.5.0...v0.6.0) (2019-10-08)
+
+
+### Bug Fixes
+
+* amend me again amended by emanuel ([9c0ab27](https://github.com/emanuel-virca/versioning-test/commit/9c0ab27))
+* commit a ([46fabef](https://github.com/emanuel-virca/versioning-test/commit/46fabef))
+* commit b ([3b3a294](https://github.com/emanuel-virca/versioning-test/commit/3b3a294))
+* merge ([6daca22](https://github.com/emanuel-virca/versioning-test/commit/6daca22))
+
+
+### Features
+
+* ammend ([7c609a4](https://github.com/emanuel-virca/versioning-test/commit/7c609a4))
+* commit c ([c3c2bac](https://github.com/emanuel-virca/versioning-test/commit/c3c2bac))
+* **commit-b:** commit d ([7b0feec](https://github.com/emanuel-virca/versioning-test/commit/7b0feec))
+* **commit-e:** commit e ([3f0f7a9](https://github.com/emanuel-virca/versioning-test/commit/3f0f7a9))
+* commit f ([2553ce5](https://github.com/emanuel-virca/versioning-test/commit/2553ce5))
+* test feat ([8573499](https://github.com/emanuel-virca/versioning-test/commit/8573499))
+* test feat ([aeb2071](https://github.com/emanuel-virca/versioning-test/commit/aeb2071))
+* **commit-ema:** commit ema ([31ee91f](https://github.com/emanuel-virca/versioning-test/commit/31ee91f))
+* **commit-ema:** commit ema 2 ([7fc6f1a](https://github.com/emanuel-virca/versioning-test/commit/7fc6f1a))
+* **commit-ema:** commit ema 4 ([c482a6a](https://github.com/emanuel-virca/versioning-test/commit/c482a6a))
+* **merge:** confilic ([f87b2f0](https://github.com/emanuel-virca/versioning-test/commit/f87b2f0))
+* **test:** local commit ([924a359](https://github.com/emanuel-virca/versioning-test/commit/924a359))
+
+
+
 ### [0.5.4](https://github.com/emanuel-virca/versioning-test/compare/v0.5.3...v0.5.4) (2019-05-09)
 
 
