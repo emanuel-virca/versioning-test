@@ -5,8 +5,7 @@
 
 trigger:
   branches:
-    include:
-      - master
+    include:      
       - refs/tags/*
 
 pool:
