@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.6.1](https://github.com/emanuel-virca/versioning-test/compare/v0.6.0...v0.6.1) (2019-10-11)
+
+
+### Bug Fixes
+
+* checry pick from master ([7ea9e80](https://github.com/emanuel-virca/versioning-test/commit/7ea9e80))
+
+
+
 ## [0.6.0](https://github.com/emanuel-virca/versioning-test/compare/v0.5.0...v0.6.0) (2019-10-08)
 
 
