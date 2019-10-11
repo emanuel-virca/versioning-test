@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.6.1](https://github.com/emanuel-virca/versioning-test/compare/v0.6.0...v0.6.1) (2019-10-11)
+
+
+### Bug Fixes
+
+* master fix ([8bf586b](https://github.com/emanuel-virca/versioning-test/commit/8bf586b))
+* this is another fix on master ([f2259fc](https://github.com/emanuel-virca/versioning-test/commit/f2259fc))
+
+
+
 ## [0.6.0](https://github.com/emanuel-virca/versioning-test/compare/v0.5.0...v0.6.0) (2019-10-08)
 
 
