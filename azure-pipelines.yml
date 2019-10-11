@@ -6,8 +6,8 @@
 trigger:
   branches:
     include:
-      - refs/tags/*
       - master
+      - refs/tags/*
 
 pool:
   vmImage: "ubuntu-latest"
