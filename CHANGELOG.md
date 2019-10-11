@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.7.0](https://github.com/emanuel-virca/versioning-test/compare/v0.6.0...v0.7.0) (2019-10-11)
+
+
+### Bug Fixes
+
+* master fix ([8bf586b](https://github.com/emanuel-virca/versioning-test/commit/8bf586b))
+* this is another fix on master ([f2259fc](https://github.com/emanuel-virca/versioning-test/commit/f2259fc))
+
+
+### Features
+
+* feature ([156fce6](https://github.com/emanuel-virca/versioning-test/commit/156fce6))
+* master commit ([7153799](https://github.com/emanuel-virca/versioning-test/commit/7153799))
+* no tag ([8d36cfe](https://github.com/emanuel-virca/versioning-test/commit/8d36cfe))
+* trigger build on tagging branches ([ae08a14](https://github.com/emanuel-virca/versioning-test/commit/ae08a14))
+
+
+
 ### [0.6.1](https://github.com/emanuel-virca/versioning-test/compare/v0.6.0...v0.6.1) (2019-10-11)
 
 
