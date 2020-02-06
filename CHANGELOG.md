@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-alpha.1](https://github.com/emanuel-virca/versioning-test/compare/v1.0.0-alpha.0...v1.0.0-alpha.1) (2020-02-06)
+
+
+### Bug Fixes
+
+* test fix ([818dac3](https://github.com/emanuel-virca/versioning-test/commit/818dac306cf128975efcb57310f237d6a18a61a9))
+
 ## [1.0.0-alpha.0](https://github.com/emanuel-virca/versioning-test/compare/v0.9.2-alpha.1...v1.0.0-alpha.0) (2020-02-06)
 
 ### [0.9.2-alpha.1](https://github.com/emanuel-virca/versioning-test/compare/v0.9.2-alpha.0...v0.9.2-alpha.1) (2020-02-06)
