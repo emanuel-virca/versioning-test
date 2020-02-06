@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.9.0](https://github.com/emanuel-virca/versioning-test/compare/v0.7.0...v0.9.0) (2020-02-06)
+
+
+### Features
+
+* only trigger tags from master ([4771209](https://github.com/emanuel-virca/versioning-test/commit/4771209))
+* only trigger tags from master test ([4c6e684](https://github.com/emanuel-virca/versioning-test/commit/4c6e684))
+* only trigger tags from master test 1 ([4e8f6ff](https://github.com/emanuel-virca/versioning-test/commit/4e8f6ff))
+* only trigger tags from master test 2.edited ([4b45a2f](https://github.com/emanuel-virca/versioning-test/commit/4b45a2f))
+* only trigger tags from master test 3.edited ([80aa709](https://github.com/emanuel-virca/versioning-test/commit/80aa709))
+* only trigger tags from master test 4 ([9d7de27](https://github.com/emanuel-virca/versioning-test/commit/9d7de27))
+
+
+
 ## [0.8.0](https://github.com/emanuel-virca/versioning-test/compare/v0.7.0...v0.8.0) (2019-10-11)
 
 
