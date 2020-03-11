@@ -16,6 +16,6 @@ import { AppEffects } from "./app.effects";
 })
 export class AppModule {
     constructor() {
-        console.log("test");
+        console.log("tester");
     }
 }
