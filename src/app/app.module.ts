@@ -15,5 +15,7 @@ import { AppEffects } from "./app.effects";
     bootstrap: [AppComponent]
 })
 export class AppModule {
-    constructor() {}
+    constructor() {
+        console.log("test");
+    }
 }
