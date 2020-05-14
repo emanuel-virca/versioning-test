@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/emanuel-virca/versioning-test/compare/v1.0.1-alpha.2.5...v1.1.0) (2020-05-14)
+
+
+### Features
+
+* commit a to rebase ([3a30ebf](https://github.com/emanuel-virca/versioning-test/commit/3a30ebf7224a7d35c8eac0a69cbf399ec713c9b8))
+* commit B to rebase ([fcebfc5](https://github.com/emanuel-virca/versioning-test/commit/fcebfc5760bf387df75bdf927c676ad63d62ded5))
+
 ### [1.0.1-alpha.2.5](https://github.com/emanuel-virca/versioning-test/compare/v1.0.1-alpha.2.4...v1.0.1-alpha.2.5) (2020-03-16)
 
 ### [1.0.1-alpha.2.4](https://github.com/emanuel-virca/versioning-test/compare/v1.0.1-alpha.2.3...v1.0.1-alpha.2.4) (2020-03-16)
